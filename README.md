@@ -65,3 +65,14 @@ Writeup 提交截止时间为2019.10.15 16:00,依据邮箱收件时间为准
 
 ## 数据公开
 
+### 文件目录
+
+```
+- calc.php 题目积分算法
+- data/
+    final_result.xlsx 最终前200排行榜
+    result.json 原始数据
+    question_list.txt 最终题目分值
+    pages/
+        * 原始排行榜单页json数据
+```
