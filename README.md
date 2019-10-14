@@ -77,6 +77,55 @@ Writeup 提交截止时间为2019.10.15 16:00,依据邮箱收件时间为准
         * 原始排行榜单页json数据
 ```
 
+### 单个题目得分
+
+```
+Pwn
+
+256 easyheap 9 650
+262 GGVM 2 966
+269 baby_pwn 1 1000
+234 ez_op 11 607
+235 easyrop 8 674
+236 easypwn 61 243
+239 realloc_magic 12 589
+243 checkin 5 773
+
+Misc
+
+257 Sudoku 5 773
+259 签到题 520 10
+270 forensic 7 703
+222 davinci_cipher 2 966
+227 h.a 0 1000
+230 TankGame 33 374
+231 黄金6年 159 37
+
+Web
+
+263 easy_java 18 503
+223 phpshe 1 1000
+224 simple_upload 23 451
+226 online_proxy 5 773
+228 easy_calc 52 277
+255 dist 2 966
+
+Reverse
+
+264 math 3 881
+232 easy_re 1 1000
+241 polyre 31 387
+242 羊肠小道 3 881
+244 时间魔法 3 881
+250 zprotect 8 674
+
+Crypto
+
+267 block2 8 674
+245 babyRSA 78 190
+246 RSA 78 190
+253 CoinFlip 12 589
+```
 
 ## 题目环境复现
 
